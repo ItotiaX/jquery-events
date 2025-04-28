@@ -108,3 +108,12 @@ input[type='submit'] {
 	text-align: center;
 }
 
+#rose {
+	position: absolute;
+	right: -100px;
+	top: 20px;
+	opacity: 0;
+}
+	#container {
+	position: relative;
+}
